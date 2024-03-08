@@ -1,0 +1,26 @@
+nav ul {
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+  font-family: calibri, serif;
+}
+
+nav li {
+  float: left;
+  width: 100px;
+  height: 40px;
+  border-right: 1px solid #cccccc;
+  text-align: center;
+  line-height: 40px;
+}
+
+nav li a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  background-color: #333333;
+}
+
+nav li :hover {
+  background-color: #3388bb;
+}
